@@ -1,5 +1,4 @@
 # SentimentAnalysis
-Research Seminar
 
 ### Sentiment Analysis on VADER a rule based dictionary: https://github.com/cjhutto/vaderSentiment
 
