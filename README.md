@@ -1,6 +1,6 @@
 # SentimentAnalysis
 
-### Sentiment Analysis on VADER a rule based dictionary: https://github.com/cjhutto/vaderSentiment
+### Sentiment Analysis using VADER: https://github.com/cjhutto/vaderSentiment
 
 **01_DataSampling.ipynb**- Clean and filter original data to narrow down the scope of the problem (to original tweets containing COVID-19 keywords and originating from EU)<br>
 **02_TwitterSentimentAnalysis.ipynb**- Uses VADER dictionary to compute sentiment Score for the filtered tweets.<br>
