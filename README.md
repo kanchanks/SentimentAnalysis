@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Sentiment Analysis
 
 ### Sentiment Analysis using VADER: https://github.com/cjhutto/vaderSentiment
 
